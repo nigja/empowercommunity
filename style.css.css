@@ -1,0 +1,30 @@
+.topsection {
+background-image: url('img/urban.jpg');
+color: darkcyan;
+}
+p{text-align: center;}
+mark{
+	background-color:hotpink; 
+	color: darkblue;
+}
+h1{
+	text-align: center;
+	color: darkblue;
+}
+
+h2{text-align: center;}	
+.med-img { 
+	width: 300px;
+}
+h3{text-align: center ;}
+
+h3{text-align: center;}
+
+
+
+
+.button {
+background-color: hotpink ;
+border-radius: 10px;
+padding: 10px;
+}	
